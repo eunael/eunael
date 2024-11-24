@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Desenvolvedor Web | PHP | Laravel | MySQL | Linux | Docker</h2>
+<h2 align="left">Desenvolvedor FullStack | PHP | Laravel | MySQL | Linux | Docker</h2>
 
 ###
 
